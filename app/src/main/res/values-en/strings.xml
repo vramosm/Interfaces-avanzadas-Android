@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise04</string>
+    <string name="Buscar">Search</string>
+    <string name="url1">Introduce the URL</string>
+    <string name="url2">Introduce la URL</string>
+    <string name="web">Navigator Web</string>
+    <string name="Buscador">Search</string>
+    <string name="Web1">First Web</string>
+    <string name="Web2">Second Web</string>
+    <string name="Dialogo">Enter the URL you want to search and press the button</string>
+    <string name="Aceptar">OK</string>
+    <string name="Snack">Use the browser responsibly</string>
+</resources>

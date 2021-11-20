@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/teal_700"
+    android:id="@+id/segundofragment">
+
+
+    <WebView
+        android:id="@+id/webview2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="@color/teal_700"/>
+
+    <FrameLayout
+        android:id="@+id/fragmentdos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name= "com.example.ejercicio4.FragmentDos"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

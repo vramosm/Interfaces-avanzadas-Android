@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejercicio04</string>
+    <string name="Buscar">Buscar</string>
+    <string name="url1">Introduce la URL</string>
+    <string name="url2">Introduce la URL</string>
+    <string name="web">Navegador web</string>
+    <string name="Buscador">Buscador</string>
+    <string name="Web1">Primera Web</string>
+    <string name="Web2">Segunda Web</string>
+    <string name="Dialogo">Introduce la URL que quieras buscar y presiona el boton</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Snack">Usa el navegador con responsabilidad</string>
+
+</resources>
