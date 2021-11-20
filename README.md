@@ -11,3 +11,4 @@ La navegación entre pantallas se podrá hacer mediante un menú lateral o pesta
 El diseño y comportamiento específico de la aplicación se deja al criterio del alumno. Se valorará positivamente el uso de al menos dos elementos avanzados de interfaz como: SnackBar, ProgressBar, Dialog, Animaciones o Internacionalización.
 
 
+![screenshot](https://user-images.githubusercontent.com/91912284/142742487-d6b2339a-b1aa-40c4-b46c-a0db4dc92bb9.png)
